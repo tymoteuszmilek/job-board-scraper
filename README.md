@@ -1,6 +1,6 @@
 # Job Board Scraping
 
-![webscraping](screenshots/web-scraer.png)
+![webscraping](screenshots/web-scraper.png)
 
 ## Overview
 
