@@ -27,7 +27,7 @@ This project is a web scraper built with Python and Streamlit that fetches remot
 1. **Run the program:**
    
       ```bash
-      python main.py
+      streamlit run main.py
       ```
 2. Open your web browser and go to http://localhost:8501 to view the application.
       
