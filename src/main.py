@@ -149,8 +149,8 @@ def main():
                         st.markdown(f"**Salary:** {job['salary']}")
                     st.markdown(f"[**More Info:**]({job['jobUrl']})")
 
-                    # Horizontal line to separate each job offer
-                    st.markdown("<hr style='border: none; border-top: 1px solid #ccc; height: 1px; background-color: #ccc;'>", unsafe_allow_html=True)
+                # Horizontal line to separate each job offer
+                st.markdown("<hr style='border: none; border-top: 1px solid #ccc; height: 1px; background-color: #ccc;'>", unsafe_allow_html=True)
 
     else:
         st.write('No jobs found.')
