@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is a web scraper built with Python BeautifulSoup, Requests to scrape data and Streamlit for front-end interface that fetches remote job listings from the [We Work Remotely](https://weworkremotely.com) website. It extracts key information such as job title, company name, tech stack, salary, and more, and displays them in a user-friendly interface.
+This project is a web scraper built with Python using BeautifulSoup and Requests for data scraping, and Streamlit for creating a user-friendly front-end interface. It fetches remote job listings from the [We Work Remotely](https://weworkremotely.com) website, extracting key details such as job title, company name, tech stack, salary, and more.
 
 ## Demo
 
