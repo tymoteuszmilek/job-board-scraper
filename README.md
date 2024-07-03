@@ -16,7 +16,7 @@ This project is a web scraper built with Python and Streamlit that fetches remot
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/tymoteuszmilek/job-board-scraper.git
-   cd pathfinding-visualization/src
+   cd job-board-scraper/src
    ```
 2. **Install the required dependencies:**
      
